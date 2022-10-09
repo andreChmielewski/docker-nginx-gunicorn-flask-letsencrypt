@@ -6,3 +6,4 @@ core/venv
 *.log
 .venv
 .env
+src
